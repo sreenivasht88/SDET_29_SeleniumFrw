@@ -14,22 +14,6 @@ public class ContactTest {
 		System.out.println("execute modifyContactTest");
 	}
 	
-	@Test(groups = "regressionTest")
-	public void deleteConatct() {
-		System.out.println("execute deleteConatct");
-		
-	}
 	
-	@Test(groups = "regressionTest")
-	public void deleteConatct1() {
-		System.out.println("execute deleteConatct1111");
-		System.err.println("dfhdsfdfv");
-		
-		
-		
-		
-		
-	}
 	
-
 }
